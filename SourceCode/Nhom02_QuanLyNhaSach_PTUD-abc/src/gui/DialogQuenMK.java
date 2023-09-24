@@ -127,8 +127,8 @@ public class DialogQuenMK extends JDialog {
 				if(lbl_email.getText()== "") {
 					JOptionPane.showMessageDialog(null, "Tài Khoản Không Tồn Tại!");
 				}else {
-					final String username = "thanhsanggl06@gmail.com";
-			        final String password = "xxsrowufosiurybw";
+					final String username = "thaánhangg@gmail.com";
+			        final String password = "xxsrowhdhdhshshjsjsuaus";
 
 			        Properties prop = new Properties();
 					prop.put("mail.smtp.host", "smtp.gmail.com");
